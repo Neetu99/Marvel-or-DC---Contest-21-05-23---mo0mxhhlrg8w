@@ -1,4 +1,4 @@
-[20:55, 21/05/2023] <Ved🔥>Neetu</ Ojha🔥>: import React, { useState, useEffect } from "react";
+ import React, { useState, useEffect } from "react";
 import Summary from "./Summary";
 function FormB({ onSubmit, age }) {
     const [marvelShows, setMarvelShows] = useState("");
